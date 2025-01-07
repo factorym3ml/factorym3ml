@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💼 Working as a Front-End and Back-End Developer.<br>- 🌱 Currently learning [specific technology, e.g., Next.js, Docker].<br>- 🚀 I love solving complex problems and bringing ideas to life through code.<br>-⚡ Fun fact
+- 💼 Working as a Front-End and Back-End Developer.<br>- 🌱 Currently learning [specific technology, e.g., Next.js, Docker].<br>- 🚀 I love solving complex problems and bringing ideas to life through code.<br>-⚡ Fun fact I'm a human.
 
 
 ## 🌐 Socials:
